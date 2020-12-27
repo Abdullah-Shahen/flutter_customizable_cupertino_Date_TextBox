@@ -1,0 +1,24 @@
+name: custom_cupertino_date_textbox
+description: A customizable flutter Cupertino text box which can be used to select a date with CupertinoDatePicker
+version: 0.0.1
+author: Abdullah Benomar Shahen <dev.shahen.abdullah@gmail.com>
+homepage: https://github.com/Abdullah-Benomar-Shahen/flutter_customizable_cupertino_Date_TextBox
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  intl: ^0.16.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
