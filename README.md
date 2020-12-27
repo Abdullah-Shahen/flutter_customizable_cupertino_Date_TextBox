@@ -1,7 +1,9 @@
 # Customizable Flutter Cupertino Date TextBox
 
-![Screen_shoot1](example_1.png) 
-![Screen_shoot2](example_2.png)
+<p float="left">
+    <img src="/example_1.png" width="300"/> 
+    <img src="/example_2.png" width="300"/>
+</p>
 
 This is a customizable flutter Cupertino text box which can be used to select a date with CupertinoDatePicker.
 
