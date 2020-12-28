@@ -19,9 +19,13 @@ CustomizableCupertinoDateTextBox(
     );
 ```
 
+## Usage Example
 Here you can find the usage example: [Demo-App](https://github.com/Abdullah-Benomar-Shahen/flutter_customizable_cupertino_Date_TextBox/blob/main/example/lib/main.dart)
 
 ## Bugs & Future Requests
 If you encounter any problems feel free to open an issue. If you feel the library is
 missing a feature, please raise a ticket on Github and I'll look into it.
 Pull Request are also welcome.
+
+------
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
