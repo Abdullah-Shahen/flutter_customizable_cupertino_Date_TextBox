@@ -19,13 +19,29 @@ CustomizableCupertinoDateTextBox(
     );
 ```
 
+## Parameters documentation
+All optinal values will be set to default if nothing provided.
+|     Parameter     |      Type     |  Description                                               |  Required  |
+|:-------------------|:-------------|:------------------------------------------------------------|:------------|
+| initialValue      |  DateTime     |  initial value which will be displayed in the text box     |  YES       |
+| hintText          |  String       |  text to be displayed if no initial value is given |  YES       |
+| onDateChange      |  Function     |  function to be called if the selected date changes        |  YES       |
+| pickerBackgroundColor  |  Color       |  background color of the cupertino picker |  Optional       |
+| textFieldFillColor |  Color       |  color of the text within the text box |  Optional       |
+| prefixIcon  |  Icon       |  lead icon (Prefix) which will be displayed on the left side of the text box |  Optional       |
+| controller  |  TextEditingController       |  controller which will be used to get/set (Control) the Field |  Optional       |
+| dateFormatter |  DateFormat       |  Specifies the format of the Date e.g. (ddMMyyyy)|  Optional  |
+| hintTextStyle |  TextStyle       |  Specifies the TextStyle of the TextField hint      |  Optional |
+| textFieldTextStyle  |  TextStyle       |  Specifies the TextStyle of the TextField Text |  Optional |
+| width |  int       | Width of the TextField  |  Optional       |
+| height |  int       | height of the TextField  |  Optional       |
+
 ## Usage Example
 Here you can find the usage example: [Demo-App](https://github.com/Abdullah-Benomar-Shahen/flutter_customizable_cupertino_Date_TextBox/blob/main/example/lib/main.dart)
 
 ## Bugs & Future Requests
-If you encounter any problems feel free to open an issue. If you feel the library is
-missing a feature, please raise a ticket on Github and I'll look into it.
-Pull Request are also welcome.
+If you run into problems, feel free to open an issue.<br/>That library is missing a feature? please create an issue on Github and I'll take a look at it.
+<br/>Pull request are always welcome.
 
 ------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
