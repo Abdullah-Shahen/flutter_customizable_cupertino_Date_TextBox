@@ -1,0 +1,13 @@
+name: example
+description: Demo app for the Custom Cupertino Date TextBox Package
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  custom_cupertino_date_textbox: ^0.0.3
