@@ -19,7 +19,7 @@ CustomizableCupertinoDateTextBox(
     );
 ```
 
-Full Documentation will be provided soon.
+Here you can find the usage example: [Demo-App](https://github.com/Abdullah-Benomar-Shahen/flutter_customizable_cupertino_Date_TextBox/blob/main/example/lib/main.dart)
 
 ## Bugs & Future Requests
 If you encounter any problems feel free to open an issue. If you feel the library is
