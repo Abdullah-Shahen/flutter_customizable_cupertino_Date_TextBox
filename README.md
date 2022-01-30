@@ -1,4 +1,4 @@
-# Customizable Flutter Cupertino Date TextBox
+# [Deprecated] Customizable Flutter Cupertino Date TextBox
 
 <img src="https://user-images.githubusercontent.com/33698941/103181723-8b124980-48a4-11eb-9c20-9e35198aa0ae.png" width="300"/> 
 <img src="https://user-images.githubusercontent.com/33698941/103181731-9f564680-48a4-11eb-8551-cc9eac9762cb.png" width="300"/>
